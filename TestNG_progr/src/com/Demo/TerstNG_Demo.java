@@ -14,7 +14,7 @@ public class TerstNG_Demo {
   @Test
   public void f()
   {
-	  System.out.println("@Test");
+	  System.out.println("@jjjj");
   }
   @BeforeMethod
   public void beforeMethod() 
